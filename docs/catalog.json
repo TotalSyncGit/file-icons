@@ -2,68 +2,22 @@
 	"icons":
 	[
 		{
-			"extensions": 
-			[
-				{"extension": ".aif"},
-				{"extension": ".iff"},
-				{"extension": ".mp3"},
-				{"extension": ".mid"},
-				{"extension": ".mpa"},
-				{"extension": ".wav"},
-				{"extension": ".wma"}
-			],
+			"extensions": [ ".aif", ".iff", ".mp3", ".mid", ".mpa", ".wav", ".wma"],
 			"icon": "music.svg",
 			"flag": "0"
 		},
 		{
-			"extensions": 
-			[
-				{"extension": ".3g2"},
-				{"extension": ".3gp"},
-				{"extension": ".asf"},
-				{"extension": ".avi"},
-				{"extension": ".mkv"},
-				{"extension": ".mov"},
-				{"extension": ".mp4"},
-				{"extension": ".mpg"},
-				{"extension": ".wmv"}
-			],
+			"extensions": [ ".3g2", ".3gp",".asf",".avi",".mkv",".mov",".mp4",".mpg",".wmv"],
 			"icon": "video.svg",
 			"flag": "0"
 		},
 		{
-			"extensions": 
-			[
-				{"extension": ".txt"},
-				{"extension": ".text"},
-				{"extension": ".log"}
-			],
+			"extensions": [ ".txt", ".text", ".log"],
 			"icon": "text.svg",
 			"flag": "0"
-		},
+		},		
 		{
-			"extensions": 
-			[
-				{"extension": ".docx"},
-				{"extension": ".docm"},
-				{"extension": ".doc"},
-				{"extension": ".dotx"},
-				{"extension": ".dotm"}
-			],
-			"icon": "word.svg",
-			"flag": "0"
-		},
-		{
-			"extensions": 
-			[
-				{"extension": ".bmp"},
-				{"extension": ".tif"},
-				{"extension": ".jpg"},
-				{"extension": ".jpeg"},
-				{"extension": ".gif"},
-				{"extension": ".png"},
-				
-			],
+			"extensions": [ ".bmp", ".tif", ".jpg", ".jpeg", ".gif", ".png"],
 			"icon": "image.svg",
 			"flag": "0"
 		}
