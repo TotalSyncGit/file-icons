@@ -20,7 +20,26 @@
 			"extensions": [ ".bmp", ".tif", ".jpg", ".jpeg", ".gif", ".png"],
 			"icon": "image.svg",
 			"flag": "0"
+		},
+        {
+			"extensions": [ ".doc", ".docx"],
+			"icon": "word.svg",
+			"flag": "0"
+		},
+        {
+			"extensions": [ ".xlsx", ".xlsm", ".xlsb", ".xltx", ".xls", ".xlt"],
+			"icon": "excel.svg",
+			"flag": "0"
+		},
+        {
+			"extensions": [ ".pptx", ".pptm", ".ppt"],
+			"icon": "powerpoint.svg",
+			"flag": "0"
+		},
+        {
+			"extensions": [ ".pdf"],
+			"icon": "pdf.svg",
+			"flag": "0"
 		}
-		
 	]
 }
