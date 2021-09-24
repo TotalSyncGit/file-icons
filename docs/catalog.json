@@ -3,7 +3,7 @@
 	[
 		{
 			"extensions": [ ".aif", ".iff", ".mp3", ".mid", ".mpa", ".wav", ".wma"],
-			"icon": "music.svg",
+			"icon": "audio.svg",
 			"flag": "0"
 		},
 		{
@@ -22,7 +22,7 @@
 			"flag": "0"
 		},
         {
-			"extensions": [ ".doc", ".docx"],
+			"extensions": [ ".doc", ".docx", ".rtf"],
 			"icon": "word.svg",
 			"flag": "0"
 		},
