@@ -34,11 +34,16 @@
         {
 			"extensions": [ ".pptx", ".pptm", ".ppt"],
 			"icon": "powerpoint.svg",
-			"flag": "0"
+			"flag": "1"
 		},
         {
 			"extensions": [ ".pdf"],
 			"icon": "pdf.svg",
+			"flag": "0"
+		},
+		{
+			"extensions": [ ".zip", ".rar", ".7z", ".cab", ".cbr", ".zipx"],
+			"icon": "archive.svg",
 			"flag": "0"
 		}
 	]
