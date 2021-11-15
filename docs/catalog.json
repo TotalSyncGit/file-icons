@@ -17,7 +17,7 @@
 			"flag": "0"
 		},		
 		{
-			"extensions": [ ".bmp", ".tif", ".jpg", ".jpeg", ".gif", ".png"],
+			"extensions": [ ".bmp", ".tif", ".jpg", ".jpeg", ".gif", ".png", ".heic"],
 			"icon": "image.svg",
 			"flag": "0"
 		},
