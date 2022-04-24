@@ -2,7 +2,7 @@
 	"icons":
 	[
 		{
-			"extensions": [ ".aif", ".iff", ".mp3", ".mid", ".mpa", ".wav", ".wma"],
+			"extensions": [ ".mp3", ".wav", ".m4a", ".m4b", ".aac", ".flac", ".mpa"],
 			"icon": "audio.svg",
 			"flag": "0"
 		},
