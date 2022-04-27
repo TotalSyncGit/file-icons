@@ -7,7 +7,7 @@
 			"flag": "0"
 		},
 		{
-			"extensions": [ ".3g2", ".3gp",".asf",".avi",".mkv",".mov",".mp4",".mpg",".wmv"],
+			"extensions": [ ".3g2", ".3gp", ".asf", ".avi", ".mkv", ".mov", ".mp4", ".mpg", ".wmv"],
 			"icon": "video.svg",
 			"flag": "0"
 		},
@@ -21,22 +21,22 @@
 			"icon": "image.svg",
 			"flag": "0"
 		},
-        {
+		{
 			"extensions": [ ".doc", ".docx", ".rtf"],
 			"icon": "word.svg",
 			"flag": "0"
 		},
-        {
+		{
 			"extensions": [ ".xlsx", ".xlsm", ".xlsb", ".xltx", ".xls", ".xlt"],
 			"icon": "excel.svg",
 			"flag": "0"
 		},
-        {
+		{
 			"extensions": [ ".pptx", ".pptm", ".ppt"],
 			"icon": "powerpoint.svg",
 			"flag": "1"
 		},
-        {
+		{
 			"extensions": [ ".pdf"],
 			"icon": "pdf.svg",
 			"flag": "0"
